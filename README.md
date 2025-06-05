@@ -5,4 +5,7 @@ The purpose of this project is to design and implement a relational database for
 ## Entity Relationship Diagram
 
 ![f2d9a51f8941f791a1a321f56a1b178d](https://github.com/user-attachments/assets/df0dddf8-eb26-49db-9a7a-ab4457668417)
+
 ## Technologies Used
+
+![MySQL](https://img.shields.io/badge/Database-MySQL-blue?logo=mysql&logoColor=white)
